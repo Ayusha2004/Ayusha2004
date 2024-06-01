@@ -1,7 +1,7 @@
  Hi there 👋
 
 
-- 🔭 I’m currently a student of 6th sem in SOA University with a strong academic background
+- 🔭 I’m pursuing BTECH CSE  in SOA University 2025 batch with a strong academic background
 - 🌱 I’m currently learning Fullstack Developement 
 - 👯 I’m looking to collaborate on linkedin and github 
 - 🤔 I’m looking for help with career oppertunities
